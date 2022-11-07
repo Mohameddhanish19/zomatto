@@ -1,1 +1,1 @@
-cars = ["Ford", "Volvo",]
+car = ["Ford"]
